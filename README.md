@@ -17,6 +17,10 @@ Dessa forma, promove a saúde, o bem-estar e a acessibilidade para essa parcela 
 
 Assim que o sensor ultrassônico detectar a presença de um objeto em até 20 cm, o micro servo motor — que está instalado no pedal da lixeira — irá acionar e, dessa forma, levantar a tampa da lixeira. Isso será feito de 30 em 30 graus, até que o motor atinja a angulação de 90 graus. Detalhe importante: essa ação de levantar a tampa acontece rapidamente, aumentando a angulação do motor a cada 0.5 segundo. Enquanto o sensor detectar a presença contínua deste objeto em um raio de 20 cm, a tampa permanecerá aberta. Assim que o sensor não captar mais o objeto no raio especificado, serão contabilizados 5 segundos e, então, o processo para fechar a tampa começará. A cada 1.5 segundo, o motor irá diminuir sua angulação em 10 graus. Ou seja, irá do grau 90 ao 0 de forma relativamente devagar, para não fechar a tampa da lixeira abruptamente.
 
+## Protótipo
+
+O protótipo do projeto pode ser acessado no link a seguir: `https://www.tinkercad.com/things/3KbT9Q3vXpB-projeto-lixeira-inteligente?sharecode=xo7LD8HA_f4XRz-feZPXnTD8tcSIJSEiYN74nh5ww7I`.
+
 ## Sobre
 
 Projeto desenvolvido durante o curso técnico em Eletrotécnica, no campus IFNMG Montes Claros, na disciplina de Projeto Integrador.
