@@ -19,7 +19,9 @@ Assim que o sensor ultrassônico detectar a presença de um objeto em até 20 cm
 
 ## Protótipo
 
-O protótipo do projeto pode ser acessado no link a seguir: `https://www.tinkercad.com/things/3KbT9Q3vXpB-projeto-lixeira-inteligente?sharecode=xo7LD8HA_f4XRz-feZPXnTD8tcSIJSEiYN74nh5ww7I`.
+O protótipo do projeto pode ser acessado no link abaixo:
+
+https://www.tinkercad.com/things/3KbT9Q3vXpB-projeto-lixeira-inteligente?sharecode=xo7LD8HA_f4XRz-feZPXnTD8tcSIJSEiYN74nh5ww7I
 
 ## Sobre
 
