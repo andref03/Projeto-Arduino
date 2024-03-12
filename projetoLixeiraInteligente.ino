@@ -20,7 +20,8 @@ void setup() {
   Serial.begin(9600);
 }
 
-void verificaDistancia(){   //função personalizada
+//função personalizada para atualizar a distancia
+void verificaDistancia(){   
   digitalWrite(pino_trigger, HIGH);
   delayMicroseconds(10);
   digitalWrite(pino_trigger, LOW);
